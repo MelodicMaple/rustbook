@@ -1,3 +1,3 @@
-#rustbook
+# rustbook
 
 Working through https://doc.rust-lang.org/book/
